@@ -4106,7 +4106,15 @@ PrefabInstance:
     - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
       propertyPath: jump
       value: 
-      objectReference: {fileID: 8300000, guid: 6f74d3370dbfb47939f735f0cf80ba02, type: 3}
+      objectReference: {fileID: 8300000, guid: 16d7783a3e75b4329bb7136eb725422d, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: hardLanding
+      value: 
+      objectReference: {fileID: 8300000, guid: 851136b8c757b4dc08774f189d7e9271, type: 3}
+    - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
+      propertyPath: softLanding
+      value: 
+      objectReference: {fileID: 8300000, guid: 738356aaacbdc49ca927708010f22755, type: 3}
     - target: {fileID: 78950764, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e, type: 3}
       propertyPath: stepsTimeGap
       value: 0.3
@@ -4247,6 +4255,11 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: a138e01d21aea4e46b25dc75c2eb8c72, type: 3}
+    - target: {fileID: 3898066137624782891, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e,
+        type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 16d7783a3e75b4329bb7136eb725422d, type: 3}
     - target: {fileID: 8431836015106045375, guid: 9bd03ab8f38a3cf4a8cf7e42d9718f1e,
         type: 3}
       propertyPath: m_audioClip
